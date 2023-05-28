@@ -1,0 +1,16 @@
+.film{
+    width: 250px;
+    height: 350px;
+    border-radius: 15px;
+    background-size: cover;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    .title{
+        color: white;
+        background: #0000007d;
+        border-radius: 30px;
+        padding: 5px;
+        margin-top: 5px;
+    }
+}
